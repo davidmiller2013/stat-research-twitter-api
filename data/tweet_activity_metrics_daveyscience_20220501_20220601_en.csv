@@ -1,0 +1,590 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1531742335943458818","https://twitter.com/daveyscience/status/1531742335943458818","Day 20 | #100DaysOfCode
+
+Lots of calculations and transformations in pandas.
+
+The key piece was measuring variables across different time horizons.","2022-05-31 21:00 +0000","166.0","9.0","0.05421686746987952","3.0","0.0","6.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531712141132189698","https://twitter.com/daveyscience/status/1531712141132189698","Performance metrics for classification models:
+
+- Recall
+- Precision
+- Accuracy
+- AUC / ROC
+- F-one score
+- Gini coefficient
+- Confusion matrix
+- Kappa coefficient
+- Matthews coefficient
+
+...I think we need a thread to understand all this...","2022-05-31 19:00 +0000","65.0","1.0","0.015384615384615385","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531693380417343493","https://twitter.com/daveyscience/status/1531693380417343493","@sumitsaurabh927 Love your threads man! Where do you do the animations?","2022-05-31 17:45 +0000","65.0","2.0","0.03076923076923077","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531692879567106050","https://twitter.com/daveyscience/status/1531692879567106050","Reasons You Need to Learn Python
+
+1. Easy - Beginner friendly, English-like syntax
+
+2. Versatile - anything from full stack development to machine learning
+
+3. Popular - large and growing community and ecosystem
+
+4. In-Demand - 2-3x your salary or start freelancing, you choose","2022-05-31 17:43 +0000","1260.0","55.0","0.04365079365079365","0.0","4.0","18.0","10.0","0.0","0.0","23.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531692724222574596","https://twitter.com/daveyscience/status/1531692724222574596","Popular Machine Learning Project Ideas
+
+- Image Classification (Computer Vision)
+- Sentiment Analysis (NLP)
+- Fraud or Cancer Detection (Classification w/ Imbalance)
+- Stock or Home Price Prediction (Decision Tree/Regression)
+
+Wide range of free knowledge available in tutorials!","2022-05-31 17:42 +0000","926.0","13.0","0.014038876889848811","0.0","0.0","2.0","3.0","0.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531681956689285125","https://twitter.com/daveyscience/status/1531681956689285125","Look at my posts about #100DaysOfCode
+
+- Projects to get excited about and solidify skills.
+
+- Courses and tutorials to work through issues and introduce new skills.
+
+- Exercises for fundamental practice and cheap dopamine.
+
+This is the way.","2022-05-31 17:00 +0000","54.0","1.0","0.018518518518518517","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531647053159342082","https://twitter.com/daveyscience/status/1531647053159342082","If you're worried about the automation of data science, prioritize the following skills:
+
+- Problem scoping
+- Data prep and clean
+- Model documentation
+- Stakeholder engagement
+- Interpretability &amp; actionability
+
+Soft skills and dirty work will never go out of style.","2022-05-31 14:41 +0000","505.0","13.0","0.02574257425742574","0.0","0.0","7.0","1.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531395640864956418","https://twitter.com/daveyscience/status/1531395640864956418","Learn data science for free on YouTube:
+
+- Sentdex 
+- StatQuest
+- Corey Shafer
+- freeCodeCamp
+- Data Science Dojo
+
+Fast, targeted, practical way to learn.
+
+YouTube &gt; Paid Courses","2022-05-30 22:02 +0000","1036.0","30.0","0.02895752895752896","2.0","0.0","15.0","1.0","0.0","0.0","12.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531379949139070982","https://twitter.com/daveyscience/status/1531379949139070982","Day 19 | #100DaysOfCode
+
+Back to Databricks tutorials, with a focus on Spark fundamentals.","2022-05-30 21:00 +0000","235.0","10.0","0.0425531914893617","3.0","0.0","6.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531349745716822021","https://twitter.com/daveyscience/status/1531349745716822021","Learning to code is exhausting. You won't always be able to sit at your computer and focus.
+
+But YouTube, alcohol, junk food, podcasts - all this will overstimulate and drain your energy even more.
+
+When your mind tells you that you need a break, make sure you take a good one.","2022-05-30 19:00 +0000","118.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531319573114388480","https://twitter.com/daveyscience/status/1531319573114388480","Do you know which data science project you'll have no problem finding the motivation to finish?
+
+The one you're being paid an annual salary to finish.
+
+Get a job. Watch your skills skyrocket.","2022-05-30 17:00 +0000","71.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531126819914715136","https://twitter.com/daveyscience/status/1531126819914715136","@ykdojo beyond that, a good break means you are recharging. unlikely to accomplish that by continuing to stare at your computer.","2022-05-30 04:14 +0000","57.0","1.0","0.017543859649122806","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1531017549898567681","https://twitter.com/daveyscience/status/1531017549898567681","Day 18 | #100DaysOfCode
+
+Setup my environment and did some initial EDA for the Kaggle competition.","2022-05-29 21:00 +0000","240.0","13.0","0.05416666666666667","3.0","0.0","6.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530987351446544384","https://twitter.com/daveyscience/status/1530987351446544384","If you're worried about the automation of data science, prioritize the following skills:
+
+- Problem scoping
+- Data prep and clean
+- Model documentation
+- Stakeholder engagement
+- Interpretability &amp; actionability
+
+Soft skills and dirty work will never go out of style.","2022-05-29 19:00 +0000","67.0","3.0","0.04477611940298507","0.0","0.0","0.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530969100461170688","https://twitter.com/daveyscience/status/1530969100461170688","Learn data science for free on YouTube:
+
+- Sentdex 
+- StatQuest
+- Corey Shafer
+- freeCodeCamp
+- Data Science Dojo
+
+Fast, targeted, practical way to learn.
+
+YouTube &gt; Paid Courses","2022-05-29 17:47 +0000","77.0","12.0","0.15584415584415584","0.0","0.0","1.0","1.0","0.0","0.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530624972737110016","https://twitter.com/daveyscience/status/1530624972737110016","I have inconsistent takes on the value of courses and tutorials for learning Python and JavaScript.
+
+It's because my opinion is not fully formed.
+
+What's your opinion?","2022-05-28 19:00 +0000","66.0","3.0","0.045454545454545456","0.0","0.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530600706700464134","https://twitter.com/daveyscience/status/1530600706700464134","Day 17 | #100DaysOfCode 
+
+Entered a Kaggle competition hosted by American Express to predict probability of default with consumer credit card data.","2022-05-28 17:23 +0000","252.0","13.0","0.051587301587301584","5.0","0.0","6.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530594778525712384","https://twitter.com/daveyscience/status/1530594778525712384","If you want to break into data science, there's a hard way and an easy way.
+
+Hard - apply to an expensive, multi-year graduate program
+
+Easy - use free resources online, build 1-2 in-depth projects, and share your work on GitHub, Medium, and Twitter
+
+Which way sounds more fun?","2022-05-28 17:00 +0000","93.0","3.0","0.03225806451612903","1.0","0.0","0.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530507479133585408","https://twitter.com/daveyscience/status/1530507479133585408","@oliverjumpertz that’s great, gonna look into it","2022-05-28 11:13 +0000","14.0","1.0","0.07142857142857142","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530384718994329603","https://twitter.com/daveyscience/status/1530384718994329603","@oliverjumpertz what would your pick between the three be for a data scientist who’s strong in python and learning/competent in JS?","2022-05-28 03:05 +0000","255.0","7.0","0.027450980392156862","1.0","1.0","1.0","1.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530276950803193864","https://twitter.com/daveyscience/status/1530276950803193864","Day 16 | #100DaysOfCode 
+
+Started databricks machine learning practitioner track. Will be using dbricks at work and independently.","2022-05-27 19:57 +0000","217.0","13.0","0.059907834101382486","4.0","0.0","5.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530262588185104384","https://twitter.com/daveyscience/status/1530262588185104384","Popular Machine Learning Project Ideas
+
+- Image Classification (Computer Vision)
+- Sentiment Analysis (NLP)
+- Fraud or Cancer Detection (Classification w/ Imbalance)
+- Stock or Home Price Prediction (Decision Tree/Regression)
+
+Wide range of free knowledge available in tutorials!","2022-05-27 19:00 +0000","73.0","4.0","0.0547945205479452","0.0","0.0","2.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530232400369881092","https://twitter.com/daveyscience/status/1530232400369881092","The impossible task of breaking into data science is a myth told by gatekeepers. The following curriculum could land you a job:
+
+- Stat101
+- DSA in Python
+- Intro to pandas, scikit-learn, and pytorch
+- 1 or 2 in-depth projects
+
+Easily accomplished in 6-12 months. Start now.","2022-05-27 17:00 +0000","178.0","5.0","0.028089887640449437","1.0","0.0","2.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1530192252319977475","https://twitter.com/daveyscience/status/1530192252319977475","Developing a consistent writing habit creates a positive flywheel.
+
+As an example:
+
+In order to tweet consistently, I need to be consistently engaged in learning and building in data science and web dev.","2022-05-27 14:20 +0000","50.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529900199509995537","https://twitter.com/daveyscience/status/1529900199509995537","Taking 1 course and starting a project &gt; Taking 10 courses
+
+#100DaysOfCode","2022-05-26 19:00 +0000","48.0","3.0","0.0625","0.0","0.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529870029600215041","https://twitter.com/daveyscience/status/1529870029600215041","It may not be as flashy as building a model using sci-kit learn, but it's an essential tool for success in a collaborative environment.
+
+If you enjoyed this thread, consider giving it a RT to help erase the stigma around Excel!
+
+https://t.co/StjcxbxAPn","2022-05-26 17:00 +0000","54.0","1.0","0.018518518518518517","0.0","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529870027477876736","https://twitter.com/daveyscience/status/1529870027477876736","3. Usability
+
+Excel workbooks are dynamic, flexible, and efficient. Excel can’t compete with other BI tools if you want to quickly spin up a cool visualization, but good luck convincing your Sales or Marketing colleagues that they can build their models from a Tableau datasource.","2022-05-26 17:00 +0000","50.0","1.0","0.02","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529870025343000576","https://twitter.com/daveyscience/status/1529870025343000576","2. Excel’s row limit
+
+An Excel sheet can only store 1 million rows, but did you know that you can use orders of magnitude more by simply connecting a datasource to Excel’s data model? Anything that pandas can read into your Jupyter notebook, Excel can read into its data model.","2022-05-26 17:00 +0000","24.0","4.0","0.16666666666666666","0.0","1.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529870023145168897","https://twitter.com/daveyscience/status/1529870023145168897","1. Stakeholder engagement
+
+Those same folks you scoff at? They also have power that will determine your project's success. The most important step in getting support for a ML project is to ground your stakeholders in a simple set of KPIs delivered through an Excel workbook.","2022-05-26 17:00 +0000","24.0","1.0","0.041666666666666664","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529870020632793088","https://twitter.com/daveyscience/status/1529870020632793088","Tech culture looks down on Excel as an analytics tool.
+
+It’s the favored tool of boomers, so why should someone on the cutting edge of data be subjected to learning such a novice skill?
+
+Let me give you 3 reasons why you need to keep your Excel skills sharp.
+
+--THREAD--","2022-05-26 17:00 +0000","116.0","6.0","0.05172413793103448","1.0","1.0","0.0","4.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529768745677246464","https://twitter.com/daveyscience/status/1529768745677246464","@ykdojo The number and variety of roles that require coding competency continue increasing, and they're all exciting!","2022-05-26 10:17 +0000","52.0","4.0","0.07692307692307693","0.0","0.0","2.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529766603696525312","https://twitter.com/daveyscience/status/1529766603696525312","@ykdojo If not patience, then consistency!","2022-05-26 10:09 +0000","9.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529650573812846592","https://twitter.com/daveyscience/status/1529650573812846592","@thejustinwelsh As an added bonus, I find you tend to naturally make progress with your weaknesses as your strengths get stronger.","2022-05-26 02:28 +0000","15.0","1.0","0.06666666666666667","0.0","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529650168664137732","https://twitter.com/daveyscience/status/1529650168664137732","@bhutanisanyam1 What is the biggest challenge when stepping into a professional data science role from a self-taught / independent background?","2022-05-26 02:26 +0000","47.0","2.0","0.0425531914893617","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529649822558474240","https://twitter.com/daveyscience/status/1529649822558474240","@WellPaidGeek Do you code in Python ever? Any opinion on it's utility outside of data science?","2022-05-26 02:25 +0000","117.0","2.0","0.017094017094017096","1.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529649261905952774","https://twitter.com/daveyscience/status/1529649261905952774","@csaba_kissi scikit-learn! (do DS frameworks count?)","2022-05-26 02:22 +0000","35.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529648933542182912","https://twitter.com/daveyscience/status/1529648933542182912","@gdb Writing tests was always an abstract concept to me when I first started learning.
+
+This DSA course laid out a problem solving template that made it click for me.
+
+https://t.co/GexsUOjANw
+
+Any other recommendations?","2022-05-26 02:21 +0000","132.0","5.0","0.03787878787878788","0.0","0.0","0.0","0.0","5.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529648004323594240","https://twitter.com/daveyscience/status/1529648004323594240","@WellPaidGeek And you're getting paid to learn! Never saw the rush to be a freelancer or solo-/entrepreneur when there's so many really interesting roles in corporate.","2022-05-26 02:17 +0000","63.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529647689696169984","https://twitter.com/daveyscience/status/1529647689696169984","@ykdojo Beyond the benefit of exposure, developing a consistent Twitter habit is creates a really positive flywheel.
+
+Myself as an example:
+
+In order to tweet consistently, I need to be consistently engaged in learning and building in data science and web dev.","2022-05-26 02:16 +0000","454.0","19.0","0.04185022026431718","0.0","1.0","7.0","9.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529647047607042056","https://twitter.com/daveyscience/status/1529647047607042056","@ImSamThompson The common saying I hear is: you can build or you can sell. In the solopreneur space, those two categories seem blended and all-encompassing.","2022-05-26 02:14 +0000","208.0","8.0","0.038461538461538464","0.0","0.0","2.0","2.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529646781897887744","https://twitter.com/daveyscience/status/1529646781897887744","@WellPaidGeek You can start machine learning before you learn Python.
+
+But it'll make a lot more sense if you do it the other way around!","2022-05-26 02:13 +0000","64.0","3.0","0.046875","0.0","0.0","0.0","3.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529638935059742720","https://twitter.com/daveyscience/status/1529638935059742720","@tunguz nice! i’m going to try it this weekend","2022-05-26 01:41 +0000","83.0","1.0","0.012048192771084338","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529635968558448640","https://twitter.com/daveyscience/status/1529635968558448640","https://t.co/9eQNV2bT7W","2022-05-26 01:30 +0000","42.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529635967241445376","https://twitter.com/daveyscience/status/1529635967241445376","Day 15 | #100DaysOfCode 
+
+Learned about the Gini Coefficient as a model performance metric.
+
+👇","2022-05-26 01:30 +0000","203.0","19.0","0.09359605911330049","5.0","1.0","8.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529537807487836162","https://twitter.com/daveyscience/status/1529537807487836162","""Saying no is a superpower""
+
+Maybe. 
+
+But if you say no to a night out with friends and you end up watching Netflix, that's not a superpower.","2022-05-25 19:00 +0000","37.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529507625947340801","https://twitter.com/daveyscience/status/1529507625947340801","Essential Skills in Data Science
+
+- Translate a business problem into a data exercise
+- Write production-grade data pipelines
+- Develop a framework for rapid experimentation
+- Design models for interpretability
+
+Master one to become valuable, all four and you're irreplaceable","2022-05-25 17:00 +0000","40.0","2.0","0.05","0.0","0.0","0.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529304536497672192","https://twitter.com/daveyscience/status/1529304536497672192","Day 14 | #100DaysOfCode 
+
+Started a new job as a data scientist in fintech. Giving myself credit even though I didn't write any code 🙃","2022-05-25 03:33 +0000","279.0","28.0","0.1003584229390681","6.0","2.0","11.0","2.0","0.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529216340220907522","https://twitter.com/daveyscience/status/1529216340220907522","@CoachFHM “They” want you to spend as much time on the app as possible. The fact that dumb content is what gets pushed is a reflection of people being most entertained by stupid shit, not of some malicious conspiracy.","2022-05-24 21:42 +0000","15.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529175424764452869","https://twitter.com/daveyscience/status/1529175424764452869","Things you need to do every day:
+
+Coding
+Writing
+Exercising
+Cooking
+Cleaning
+Reading
+
+Do them in order for optimal results.","2022-05-24 19:00 +0000","41.0","3.0","0.07317073170731707","0.0","0.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529174786177376257","https://twitter.com/daveyscience/status/1529174786177376257","@GiftOjeabulu_ @uiux_designers eagerly waiting for the community list!","2022-05-24 18:57 +0000","8.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529168850582917121","https://twitter.com/daveyscience/status/1529168850582917121","@Prawntastik just opened it","2022-05-24 18:33 +0000","10.0","2.0","0.2","0.0","0.0","0.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529145235476996098","https://twitter.com/daveyscience/status/1529145235476996098","Three FREE courses that will take you from 0 to data scientist FAST:
+
+1. Introduction to Python Programming (Udacity)
+2. Machine Learning Crash Course (Google)
+3. Machine Learning (Coursera)
+
+Perfect jumping off point into any project you want.","2022-05-24 17:00 +0000","136.0","9.0","0.0661764705882353","0.0","1.0","2.0","1.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1529097479911776256","https://twitter.com/daveyscience/status/1529097479911776256","@ykdojo i would love this!","2022-05-24 13:50 +0000","87.0","1.0","0.011494252873563218","0.0","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528912458634743810","https://twitter.com/daveyscience/status/1528912458634743810","Day 13 | #100DaysOfCode 
+
+Traveled, so didn't have time to work on my project.
+
+Solved 2 Codewars (JavaScript) and Stratascratch (SQL) problems instead.","2022-05-24 01:35 +0000","233.0","21.0","0.09012875536480687","9.0","0.0","7.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528896631864795137","https://twitter.com/daveyscience/status/1528896631864795137","@ykdojo Agree with the sentiment, but would clarify that I find different activities can be meditative - hiking, sauna, etc.","2022-05-24 00:32 +0000","29.0","4.0","0.13793103448275862","0.0","0.0","1.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528895512371417089","https://twitter.com/daveyscience/status/1528895512371417089","@eddiejaoude Great advice Eddie. Getting better at #3-4, any feedback on my #1?","2022-05-24 00:27 +0000","13.0","2.0","0.15384615384615385","0.0","1.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528895035869122560","https://twitter.com/daveyscience/status/1528895035869122560","@eddiejaoude My progress accelerated when I started holding myself to 1 consistent, hyper-focused hour per day and slowly increasing from there.","2022-05-24 00:25 +0000","7.0","1.0","0.14285714285714285","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528894461241081862","https://twitter.com/daveyscience/status/1528894461241081862","@eddiejaoude I've always felt criticism and doubt is more motivating than encouragement and support.","2022-05-24 00:23 +0000","9.0","1.0","0.1111111111111111","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528894075750998016","https://twitter.com/daveyscience/status/1528894075750998016","@svpino Love this principle: ""You don't need machine learning until you can prove otherwise."" Beyond the direct benefit of a baseline, this encourages deep exploration and understanding of the problem/data before undergoing an expensive modeling exercise.","2022-05-24 00:22 +0000","486.0","12.0","0.024691358024691357","2.0","0.0","4.0","0.0","0.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528892434788364289","https://twitter.com/daveyscience/status/1528892434788364289","@WellPaidGeek It takes years of work and persistence to become an ""overnight success"". The thing to remember is, hard work ALWAYS pays off over the long run.","2022-05-24 00:15 +0000","12.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528843235027820544","https://twitter.com/daveyscience/status/1528843235027820544","4 Reasons You Need to Learn Python
+
+1. Easy - Beginner friendly, English-like syntax
+
+2. Versatile - anything from full stack development to machine learning
+
+3. Popular - large and growing community and ecosystem
+
+4. In-Demand - 2-3x your salary or start freelancing, you choose","2022-05-23 21:00 +0000","100.0","7.0","0.07","1.0","0.0","2.0","1.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528813035040677889","https://twitter.com/daveyscience/status/1528813035040677889","Money is important. Really important.
+
+But I've always found success in making it my second priority behind continual learning, and being excited about what I'm learning.","2022-05-23 19:00 +0000","40.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528782849859538944","https://twitter.com/daveyscience/status/1528782849859538944","“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon","2022-05-23 17:00 +0000","41.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528480835510448131","https://twitter.com/daveyscience/status/1528480835510448131","https://t.co/HrLKAufvdW","2022-05-22 21:00 +0000","37.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528480833316741120","https://twitter.com/daveyscience/status/1528480833316741120","Struggling to take the first step in contributing to open source? It does not get any easier than the first-contributions repo on GitHub.
+
+Link in the next tweet 👇","2022-05-22 21:00 +0000","54.0","1.0","0.018518518518518517","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528450646952779777","https://twitter.com/daveyscience/status/1528450646952779777","3 reasons you need to keep your Excel skills sharp as a data scientist:
+
+1. Stakeholder engagement
+2. The row limit is not a hard limit 😏
+3. Flexibility compared to BI dashboard tools
+
+Don't be like the rest of the tech world and scoff at Excel's importance.","2022-05-22 19:00 +0000","48.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528420466091859968","https://twitter.com/daveyscience/status/1528420466091859968","“ Code is like humor. When you have to explain it, it’s bad.” – Cory House","2022-05-22 17:00 +0000","35.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528408268661395457","https://twitter.com/daveyscience/status/1528408268661395457","@marktenenholtz MLOps, or more generally, pulling back the veil of coding in a professional environment vs on independent projects","2022-05-22 16:11 +0000","455.0","4.0","0.008791208791208791","0.0","0.0","2.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528118448533929987","https://twitter.com/daveyscience/status/1528118448533929987","If you're an aspiring data scientist or software developer...
+
+I bet you need to practice your public speaking!","2022-05-21 21:00 +0000","43.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528088252489531394","https://twitter.com/daveyscience/status/1528088252489531394","If you don't like cleaning data and building pipelines, you are not going to enjoy data science.","2022-05-21 19:00 +0000","28.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528058074128326659","https://twitter.com/daveyscience/status/1528058074128326659","“First, solve the problem. Then, write the code.” – John Johnson","2022-05-21 17:00 +0000","33.0","1.0","0.030303030303030304","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528044352886345729","https://twitter.com/daveyscience/status/1528044352886345729","Day 12 | #100DaysOfCode 
+
+Ran baseline and BERT models. Accuracy on test data increased by 15% for both models from the last time I touched the project. Two simple changes:
+
+- Include reviews with 0 votes (classified as not helpful)
+- Combine data from multiple product categories","2022-05-21 16:05 +0000","188.0","20.0","0.10638297872340426","6.0","1.0","8.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528013178990370816","https://twitter.com/daveyscience/status/1528013178990370816","@eddiejaoude Once I learned the basics, I only return to videos and courses if they are geared towards a specific problem/topic in one of my projects.
+
+If I need a break from project work to notch small easy wins, much better ROI on quick exercises in Codewars, LeetCode, StrataScratch etc.","2022-05-21 14:01 +0000","78.0","2.0","0.02564102564102564","0.0","0.0","2.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528012471356862466","https://twitter.com/daveyscience/status/1528012471356862466","@ykdojo Last year, I thought I needed to spend every waking minute learning to code.
+
+This year, I get up and relax or pursue another hobby the minute I lose focus.
+
+Maybe both phases were necessary, but I'm much happier and have more consistent progress now.","2022-05-21 13:58 +0000","11.0","1.0","0.09090909090909091","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528011719905366016","https://twitter.com/daveyscience/status/1528011719905366016","@bindureddy I think there's a few more steps, but I'd strongly advocate for building out some traditional analytics between step 1-2.","2022-05-21 13:55 +0000","7.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528011315406577668","https://twitter.com/daveyscience/status/1528011315406577668","@Jeande_d Is QuickTime Player enough to get started? Imagine you might quickly want something more advanced like Adobe.","2022-05-21 13:54 +0000","143.0","3.0","0.02097902097902098","0.0","1.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528010637653295106","https://twitter.com/daveyscience/status/1528010637653295106","@eddiejaoude This is a generalizable skill beyond code bugs! Managers are much happier to help when you come showing evidence that you've thought about the issue.","2022-05-21 13:51 +0000","16.0","2.0","0.125","0.0","1.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528010139881680897","https://twitter.com/daveyscience/status/1528010139881680897","@SwapBuilds Similar to spoken languages, I think the snowball effect really starts to take hold on #3.
+
+Also a great mindset to remember when someone asks ""won't all development be no-code in a few years anyway?"" Maybe, but we'll be better equipped to pick up the next technology!","2022-05-21 13:49 +0000","214.0","4.0","0.018691588785046728","0.0","0.0","2.0","2.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528009459951448064","https://twitter.com/daveyscience/status/1528009459951448064","@FrancescoCiull4 Do you mean to simply click Subscribe? If so, yes, many. If you mean some incremental paid tier, I didn't know that existed.","2022-05-21 13:46 +0000","39.0","2.0","0.05128205128205128","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528009088763842560","https://twitter.com/daveyscience/status/1528009088763842560","@denicmarko I'm running through #javascript30 in hopes of solidifying some basics in all 3. Looking to jump into an independent project asap. Any better course/tutorial recommendations for how I spend this time?","2022-05-21 13:45 +0000","1163.0","7.0","0.0060189165950128975","0.0","1.0","2.0","2.0","0.0","2.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528008129442717696","https://twitter.com/daveyscience/status/1528008129442717696","@MakadiaHarsh Crazy part is - I think this is still an early stage trend. The traditional interview process is being upended, even for roles less technical than software development and data science.","2022-05-21 13:41 +0000","39.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528007871752970240","https://twitter.com/daveyscience/status/1528007871752970240","@python_engineer @harperdbio Sometimes I like to take all my fitness, social, and leisure time during the week so that I'm itching to use the weekend for long uninterrupted coding sessions.","2022-05-21 13:40 +0000","89.0","2.0","0.02247191011235955","0.0","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1528007319627485186","https://twitter.com/daveyscience/status/1528007319627485186","@ykdojo Listen to understand, not to prepare what you're going to say next.","2022-05-21 13:38 +0000","36.0","2.0","0.05555555555555555","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527811002359611393","https://twitter.com/daveyscience/status/1527811002359611393","Day 11 | #100DaysOfCode 
+
+Long day of refactoring the EDA and ETL portions of the project. Always a really helpful exercise to gain fresh perspective into what could potentially be holding back model performance.","2022-05-21 00:38 +0000","1716.0","32.0","0.018648018648018648","11.0","0.0","9.0","1.0","0.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527756063025528832","https://twitter.com/daveyscience/status/1527756063025528832","Learn to Code:
+
+1. Take a course
+2. Work on a project
+3. Become hopelessly lost
+4. Go back to step 1
+
+Once you manage to skip step 3 - share what you built or teach what you learned!","2022-05-20 21:00 +0000","42.0","4.0","0.09523809523809523","0.0","0.0","0.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527725875164241921","https://twitter.com/daveyscience/status/1527725875164241921","The Road to Data Scientist, expressed in Python libraries:
+
+🥧  numpy
+🐼  pandas
+📊  matplotlib
+🌊  seaborn
+🔬  scikit-learn
+🧠  tensorflow","2022-05-20 19:00 +0000","45.0","6.0","0.13333333333333333","0.0","0.0","1.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527717436039974912","https://twitter.com/daveyscience/status/1527717436039974912","@svpino Really agree with step 1. I'd also add the importance of building out a set of KPIs from your data to help users understand the context and scope of the problem.","2022-05-20 18:26 +0000","540.0","2.0","0.003703703703703704","0.0","0.0","0.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527716587318431744","https://twitter.com/daveyscience/status/1527716587318431744","@ykdojo Any thoughts on being anonymous vs. visible, and how that would impact your relationship with your employer (especially if you'd like to monetize your Twitter)?","2022-05-20 18:23 +0000","8.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527716158610329600","https://twitter.com/daveyscience/status/1527716158610329600","@PrasoonPratham Can you share your favorite follows for people in either the personal growth or tech (coding, software, ML) space?","2022-05-20 18:21 +0000","90.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527715140904357890","https://twitter.com/daveyscience/status/1527715140904357890","@ykdojo @elonmusk I haven't seen a lot of chatter or think-pieces about how this acquisition would impact creators. Curious to know what the sentiment is.","2022-05-20 18:17 +0000","12.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527714806790094848","https://twitter.com/daveyscience/status/1527714806790094848","@v_vashishta On the road from Data to Insight to Action, I think it's important for practitioners to get as close to action as possible before putting the results of their work in stakeholders hands.","2022-05-20 18:16 +0000","21.0","2.0","0.09523809523809523","0.0","0.0","2.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527713398099783683","https://twitter.com/daveyscience/status/1527713398099783683","@ykdojo Love #1! When I transitioned from accounting to data science, I made myself valuable at first by doing the ""dirty work"". Helped the team by removing burden and help myself by gaining understanding and notching small wins.","2022-05-20 18:10 +0000","9.0","3.0","0.3333333333333333","0.0","0.0","1.0","2.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527713079328374785","https://twitter.com/daveyscience/status/1527713079328374785","@Prathkum So hard to rank these in order of importance, but since developers are inclined to work hard and be at their computer for long hours - I'd say taking relaxing breaks! And really, finding non-tech hobbies that bring you back to your work feeling recharged and re-motivated.","2022-05-20 18:09 +0000","95.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527695695330910209","https://twitter.com/daveyscience/status/1527695695330910209","“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” – Antoine de Saint-Exupery","2022-05-20 17:00 +0000","30.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527668908802510849","https://twitter.com/daveyscience/status/1527668908802510849","@OneJKMolina 5k","2022-05-20 15:13 +0000","23.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527478229556076545","https://twitter.com/daveyscience/status/1527478229556076545","@marktenenholtz @RAPIDSai Half of this thread discusses the value of doing ""boring"" stuff. Not only does this have great ROI to the project/model, but on a personal level is a great way to build momentum with small wins if you're feeling lost or stuck.","2022-05-20 02:36 +0000","19.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527476866591825921","https://twitter.com/daveyscience/status/1527476866591825921","Day 10 | #100DaysOfCode 
+
+Picking back up on my winter NLP project. Predicting whether people will find an Amazon product review helpful by using the review's text.","2022-05-20 02:30 +0000","247.0","19.0","0.07692307692307693","8.0","0.0","7.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527474875643854858","https://twitter.com/daveyscience/status/1527474875643854858","@v_vashishta My first data science job was as a consultant. Without exception, we were hired because a client's internal data science team built a highly predictive model that was not being used by stakeholders. NOT because the team couldn't build a model.","2022-05-20 02:22 +0000","280.0","18.0","0.06428571428571428","1.0","0.0","2.0","0.0","0.0","0.0","15.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527474241536393234","https://twitter.com/daveyscience/status/1527474241536393234","@MesrenyameDogbe @eddiejaoude Want to start an open source python community on twitter??","2022-05-20 02:20 +0000","10.0","3.0","0.3","0.0","0.0","0.0","2.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527473958492176388","https://twitter.com/daveyscience/status/1527473958492176388","@MakadiaHarsh I was given advice to delete ""poor performing"" tweets. I'm finding this is horrible for building consistency. At 27 followers, I'm going to let it fly until I find my writer's voice!","2022-05-20 02:19 +0000","21.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527473323692654603","https://twitter.com/daveyscience/status/1527473323692654603","@eddiejaoude Done is better than perfect! When I built my first fullstack web app, I made so much more progress by just getting it to work by any means necessary, rather than worrying about perfect code.","2022-05-20 02:16 +0000","67.0","2.0","0.029850746268656716","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527472219974139920","https://twitter.com/daveyscience/status/1527472219974139920","@VittoStack It took me a long time to accept that sometimes the best way to make progress is to step away from my computer and get out of the house.","2022-05-20 02:12 +0000","18.0","1.0","0.05555555555555555","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527393675545874432","https://twitter.com/daveyscience/status/1527393675545874432","The Circle of Learning to Code
+
+If you're getting stuck on a project, take a course that will shore up fundamentals.
+
+If you're losing motivation during a course, go start an exciting project.
+
+Follow this simple cycle and you'll never stagnate.","2022-05-19 21:00 +0000","40.0","2.0","0.05","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527363485138464798","https://twitter.com/daveyscience/status/1527363485138464798","Data science work is drastically different in industry vs. academia.
+
+Working with ""live"" vs. fixed data is one of the biggest differences.
+
+To simulate this challenge on portfolio projects, collect your data from a company via API.
+
+Ex: Twitter, Spotify, Amazon, Redfin...","2022-05-19 19:00 +0000","63.0","1.0","0.015873015873015872","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527333318680666117","https://twitter.com/daveyscience/status/1527333318680666117","""Software is eating the world, but AI is going to eat software."" - Jensen Huang, CEO of Nvidia","2022-05-19 17:00 +0000","93.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527031405536071680","https://twitter.com/daveyscience/status/1527031405536071680","4 books that will change your lifestyle:
+
+- Dopamine Nation
+- Kick the Drink
+- Atomic Habits
+- Deep Work
+
+Read in order to make lasting change.","2022-05-18 21:00 +0000","36.0","1.0","0.027777777777777776","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527015798132318208","https://twitter.com/daveyscience/status/1527015798132318208","Day 9 | #100DaysOfCode 
+
+Learned some basic manual web scraping in JavaScript. Great practice for unpacking how a web page is built. https://t.co/v7b323RXxT","2022-05-18 19:58 +0000","198.0","25.0","0.12626262626262627","4.0","2.0","5.0","2.0","0.0","1.0","4.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527005796953133056","https://twitter.com/daveyscience/status/1527005796953133056","@FrancescoCiull4 @BhosalePratim @oliverjumpertz no, at least not right now. but now i'm searching communities. so mission accomplished - thank you!","2022-05-18 19:18 +0000","20.0","2.0","0.1","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527003261341159424","https://twitter.com/daveyscience/status/1527003261341159424","@FrancescoCiull4 @BhosalePratim @oliverjumpertz do it! in the meantime, mind sharing which one you're in?","2022-05-18 19:08 +0000","37.0","8.0","0.21621621621621623","0.0","1.0","2.0","2.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527001133700599808","https://twitter.com/daveyscience/status/1527001133700599808","@FrancescoCiull4 @BhosalePratim @oliverjumpertz if y’all started a community i would join on day 0","2022-05-18 19:00 +0000","140.0","6.0","0.04285714285714286","0.0","1.0","2.0","1.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1527001099852554240","https://twitter.com/daveyscience/status/1527001099852554240","If you’re struggling to focus:
+
+- Go for a walk
+- Clarify your vision
+- Turn off your phone
+- Work in short bursts
+- Make sure you have fun
+- Get better sleep and exercise
+
+Much of your focus and productivity has nothing to do with the work itself.","2022-05-18 19:00 +0000","34.0","1.0","0.029411764705882353","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1526604225127456768","https://twitter.com/daveyscience/status/1526604225127456768","@Sauain @Replit nice work! only thing i'd comment here is the value in choosing a project you're passionate about and/or is more related to potential use cases. love the recommendations in this article
+
+https://t.co/Zxe9CBh3aT","2022-05-17 16:43 +0000","18.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1526602698396557313","https://twitter.com/daveyscience/status/1526602698396557313","@svpino ""Academia works with fixed data"" - the best way I've handled bridging this gap in project/academic work is to collect your data via API from a public company - Twitter, Spotify, Amazon, Redfin to name a few examples.","2022-05-17 16:37 +0000","2140.0","44.0","0.020560747663551402","0.0","0.0","29.0","4.0","0.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1526328751239446528","https://twitter.com/daveyscience/status/1526328751239446528","@VittoStack How would you recommend prioritization for someone in-process on becoming professionally competent in web development?","2022-05-16 22:28 +0000","100.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1526328295037493255","https://twitter.com/daveyscience/status/1526328295037493255","@MakadiaHarsh Learning I/O! If you only consume (input), you are missing out on 50% of the process.","2022-05-16 22:26 +0000","9.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1526327948676046849","https://twitter.com/daveyscience/status/1526327948676046849","@PrasoonPratham Imposter syndrome is a demoralizing force in this field for many. I tell peers that if they can show strong competence in one area, they should have confidence they can do the job.","2022-05-16 22:25 +0000","33.0","1.0","0.030303030303030304","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1526326851936956416","https://twitter.com/daveyscience/status/1526326851936956416","@MakadiaHarsh Easier said than done. Consistency is hard in the beginning when your actions don't yield any exciting results. I like the lesson from Atomic Habits - be self-forgiving, and never skip twice.","2022-05-16 22:20 +0000","14.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1526326230966054915","https://twitter.com/daveyscience/status/1526326230966054915","@python_engineer When I committed to project-based learning my progress skyrocketed. Prior to that I struggled to motivate and be consistent, likely because there's only so long you can be excited about Hello World courses 😀","2022-05-16 22:18 +0000","113.0","2.0","0.017699115044247787","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1526322519673688065","https://twitter.com/daveyscience/status/1526322519673688065","Day 8 | #100DaysOfCode 
+
+5 Codewars problems in Javascript. Love doing this to refresh on syntax and re-establish consistency after missing a few days.","2022-05-16 22:03 +0000","213.0","12.0","0.056338028169014086","5.0","0.0","6.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1525958363384668162","https://twitter.com/daveyscience/status/1525958363384668162","@svpino @sh_reya how about full stack data science?","2022-05-15 21:56 +0000","139.0","3.0","0.02158273381294964","0.0","1.0","0.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1524856955105427462","https://twitter.com/daveyscience/status/1524856955105427462","I graduated from college with no skills and no direction.
+
+That realization has fueled my passion for education ever since.","2022-05-12 21:00 +0000","42.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1524826766447108096","https://twitter.com/daveyscience/status/1524826766447108096","My technical journey:
+
+Excel
+Alteryx
+Tableau / PowerBI
+SQL
+Python (always)
+R
+Swift
+GraphQL
+Javascript (current)
+
+Pairing data science with app development is an unbeatable combo.","2022-05-12 19:00 +0000","1324.0","40.0","0.030211480362537766","5.0","0.0","20.0","3.0","0.0","0.0","12.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1524796597690937345","https://twitter.com/daveyscience/status/1524796597690937345","At most, you need to take one Python course before you are ready to start your first project.","2022-05-12 17:00 +0000","44.0","3.0","0.06818181818181818","0.0","0.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1524600188672872448","https://twitter.com/daveyscience/status/1524600188672872448","@__mharrison__ Examples of how to go from exploration to production-grade code!","2022-05-12 03:59 +0000","142.0","2.0","0.014084507042253521","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1524599759096397824","https://twitter.com/daveyscience/status/1524599759096397824","@marktenenholtz I use the term ""creative problem solving"" quite often. Really important quality (imo) to be able to digest unique and abstract problems and roadmap them with an analytics / ML solution. Real problems are rarely as cut and dry as school/book/online learning.","2022-05-12 03:58 +0000","541.0","3.0","0.005545286506469501","0.0","0.0","0.0","1.0","0.0","0.0","1.0","0.0","0","0","1","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1524101993366704131","https://twitter.com/daveyscience/status/1524101993366704131","It took me way too long to embrace the fact that learning is a two way street.
+
+Input: read, watch, listen
+
+Output: write, do, teach
+
+Apply this to any endeavor and watch your productivity skyrocket.","2022-05-10 19:00 +0000","50.0","1.0","0.02","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1524071819325710337","https://twitter.com/daveyscience/status/1524071819325710337","COURSES ARE BORING!
+
+Don't start another course you won't finish. There are better ways to get your practice: 
+
+- LeetCode (DSA)
+- Codewars (any fundamentals)
+- Stratascratch (SQL &amp; stats)
+- @0xbnomial (machine learning)
+
+Problem-based learning is more fun and builds consistency.","2022-05-10 17:00 +0000","80.0","6.0","0.075","1.0","0.0","1.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523769793505107968","https://twitter.com/daveyscience/status/1523769793505107968","To anyone out there feeling imposter syndrome:
+
+I started calling myself a data scientist the minute I learned how to read a CSV into a Jupyter notebook.","2022-05-09 21:00 +0000","44.0","1.0","0.022727272727272728","0.0","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523739604725252105","https://twitter.com/daveyscience/status/1523739604725252105","You need to balance your productive time with complementary activities.
+
+A personal trainer may find relaxation in reading, writing, or watching a movie.
+
+A software developer may find relaxation in playing sports or going out to dinner.","2022-05-09 19:00 +0000","53.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523709438653259780","https://twitter.com/daveyscience/status/1523709438653259780","Unpopular opinion: I like LeetCode problems!
+
+1. Technical fundamentals
+2. General creative problem solving
+
+Consistent practice on two important things without having to commit long hours to a course.","2022-05-09 17:00 +0000","41.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523557770275876866","https://twitter.com/daveyscience/status/1523557770275876866","@Sauain Great list. I use Prisma on a project in conjunction with Node.js, PostgreSQL, and GraphQL. Definitely going to look through the issues and contribute.","2022-05-09 06:57 +0000","1263.0","13.0","0.010292953285827395","0.0","1.0","2.0","3.0","0.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523437849521106945","https://twitter.com/daveyscience/status/1523437849521106945","Day 7 | #100DaysOfCode
+
+Completed one question in each of my favorite training platforms: LeetCode, Stratascratch, Codewars, and @0xbnomial","2022-05-08 23:01 +0000","229.0","19.0","0.08296943231441048","6.0","0.0","6.0","0.0","0.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523407405412978688","https://twitter.com/daveyscience/status/1523407405412978688","When I first started coding I thought I had to abandon my hobbies.
+
+Eventually I realized I just had bad hobbies that didn't fuel me to code more.
+
+Now I prioritize good hobbies over everything else; and making time to code happens naturally.","2022-05-08 21:00 +0000","38.0","2.0","0.05263157894736842","0.0","0.0","0.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523377207812542464","https://twitter.com/daveyscience/status/1523377207812542464","If you know Python, learn enough JavaScript to showcase your ML project in a web app.
+
+If you know JavaScript, learn enough Python to enrich your website with data.","2022-05-08 19:00 +0000","81.0","11.0","0.13580246913580246","3.0","0.0","2.0","0.0","0.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523363812526608384","https://twitter.com/daveyscience/status/1523363812526608384","@FrancescoCiull4 @dailydotdev Hi, I'm Millhouse!
+
+🏡: Seattle, WA, USA
+💼: Data Scientist at a stealth startup
+💻: SQL, Python, JavaScript, Swift
+💜: Machine learning, web and mobile apps
+🌟: Sharing what I learn to encourage myself and others to learn more, faster, better","2022-05-08 18:06 +0000","16.0","4.0","0.25","0.0","0.0","1.0","2.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523347028683759616","https://twitter.com/daveyscience/status/1523347028683759616","In the debate on R vs. Python for data science:
+
+R - wins on stats, exploration, analysis
+
+Python - wins on building pipelines and models to put in production
+
+But Python is much better at doing what R is good at than vice-versa.","2022-05-08 17:00 +0000","264.0","16.0","0.06060606060606061","3.0","1.0","2.0","2.0","0.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523075459478700032","https://twitter.com/daveyscience/status/1523075459478700032","Want to 2, 3, 4x your salary?
+
+Learn JavaScript or Python.","2022-05-07 23:01 +0000","58.0","5.0","0.08620689655172414","0.0","0.0","0.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523059993880064000","https://twitter.com/daveyscience/status/1523059993880064000","@sh_reya i like a course from time to time. especially if you have no experience whatsoever. but textbooks can go to hell :)","2022-05-07 21:59 +0000","165.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523045018180665344","https://twitter.com/daveyscience/status/1523045018180665344","Coding languages are just like real languages - the next one is easier to learn than the one before it.
+
+By the time I wanted to learn JavaScript, I already knew all the fundamentals.","2022-05-07 21:00 +0000","58.0","1.0","0.017241379310344827","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523014823163932675","https://twitter.com/daveyscience/status/1523014823163932675","Two free courses that will kickstart your journey in coding for data science:
+
+Introduction to Computer Science and Programming Using Python - edX
+
+Introduction to Computational Thinking and Data Science - edX
+
+Verified track for $75 each to get a shiny badge on your LinkedIn.","2022-05-07 19:00 +0000","251.0","17.0","0.06772908366533864","2.0","1.0","4.0","0.0","0.0","0.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1523000648517652482","https://twitter.com/daveyscience/status/1523000648517652482","@hashtagcoder hahaha can i take this quote and use it with my team? first slide of new hire training","2022-05-07 18:03 +0000","21.0","4.0","0.19047619047619047","0.0","1.0","1.0","2.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522995776992993280","https://twitter.com/daveyscience/status/1522995776992993280","@kareem_carr And before that - define and calculate a set of descriptive KPIs to understand the problem space!","2022-05-07 17:44 +0000","307.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522995506326159361","https://twitter.com/daveyscience/status/1522995506326159361","@kareem_carr R - data scientist focused on research, exploration, analysis
+
+Python - data scientist focused on building pipelines and models to put in production","2022-05-07 17:43 +0000","3589.0","95.0","0.026469768737809974","2.0","0.0","37.0","13.0","0.0","0.0","43.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522991101891723268","https://twitter.com/daveyscience/status/1522991101891723268","@IndieMohit @JamesClear “Goals are good for setting a direction, but systems are best for making progress.”","2022-05-07 17:25 +0000","18.0","3.0","0.16666666666666666","0.0","1.0","1.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522988152486604801","https://twitter.com/daveyscience/status/1522988152486604801","@svpino Unpopular opinion: I like LeetCode problems!
+
+Consistent practice on two important things:
+
+1. Technical fundamentals (without having to commit long hours to a course)
+2. General creative problem solving","2022-05-07 17:14 +0000","813.0","8.0","0.00984009840098401","0.0","0.0","4.0","4.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522987390645809154","https://twitter.com/daveyscience/status/1522987390645809154","@sumitsaurabh927 I love CODEWARS because you can have consistent daily bite-sized fundamentals practice without sinking long hours into a course","2022-05-07 17:11 +0000","7.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522986848427065349","https://twitter.com/daveyscience/status/1522986848427065349","@andradaolteanuu Golf, skiing, volleyball, cycling","2022-05-07 17:08 +0000","188.0","1.0","0.005319148936170213","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522984646727938054","https://twitter.com/daveyscience/status/1522984646727938054","If you're a software developer that wants to code less, become a data scientist.
+
+If you're an accountant that wants to code more, become a data scientist.","2022-05-07 17:00 +0000","48.0","3.0","0.0625","0.0","0.0","0.0","1.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522682626867404800","https://twitter.com/daveyscience/status/1522682626867404800","You will learn more Python in 3 months of project-based learning than you will in 3 years of course-based learning.","2022-05-06 21:00 +0000","64.0","10.0","0.15625","0.0","0.0","2.0","2.0","0.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522652448585916416","https://twitter.com/daveyscience/status/1522652448585916416","MapReduce is a theoretical framework.
+
+Hadoop is the practical implementation of the MapReduce paradigm.
+
+Spark is a next-generation version of Hadoop.","2022-05-06 19:00 +0000","41.0","1.0","0.024390243902439025","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522628874877935617","https://twitter.com/daveyscience/status/1522628874877935617","Creating content in a niche you love creates a virtuous circle.
+
+The reward of growth and positive feedback holds you accountable to keep creating more.","2022-05-06 17:26 +0000","37.0","3.0","0.08108108108108109","0.0","0.0","0.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522611839246372864","https://twitter.com/daveyscience/status/1522611839246372864","@thedankoe genius!","2022-05-06 16:18 +0000","17.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522450272714248197","https://twitter.com/daveyscience/status/1522450272714248197","@MakadiaHarsh virtuous circle - the reward of growth and feedback holds you accountable to keep doing (and sharing) more","2022-05-06 05:36 +0000","147.0","2.0","0.013605442176870748","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522402300077219840","https://twitter.com/daveyscience/status/1522402300077219840","@eddiejaoude hell yea - criticism and doubt can be much better motivators than positive feedback","2022-05-06 02:26 +0000","13.0","3.0","0.23076923076923078","0.0","0.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522394394174935043","https://twitter.com/daveyscience/status/1522394394174935043","The reason the #100DaysOfCode challenge works so well is the same reason so few accomplish it.
+
+Consistency is key.","2022-05-06 01:54 +0000","64.0","10.0","0.15625","5.0","0.0","3.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522390440267313152","https://twitter.com/daveyscience/status/1522390440267313152","Day 6 | #100DaysOfCode 
+
+Back to the Scheduling app. Started writing the query and mutation syntax to enable Calendar display and Event creation.","2022-05-06 01:39 +0000","256.0","37.0","0.14453125","14.0","0.0","12.0","2.0","0.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522332839299076102","https://twitter.com/daveyscience/status/1522332839299076102","@florinpop1705 off topic question - what's the brand of the shirt in your profile pic??","2022-05-05 21:50 +0000","182.0","3.0","0.016483516483516484","0.0","1.0","1.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522327896550903808","https://twitter.com/daveyscience/status/1522327896550903808","Kicking off a data project can be overwhelming, so I break it into a 3 day process.
+
+1 - Research your idea
+2 - Setup your environment
+3 - Start your project
+
+Start slow, build consistency, and notch small wins.","2022-05-05 21:30 +0000","27.0","5.0","0.18518518518518517","0.0","0.0","0.0","1.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522243926421237760","https://twitter.com/daveyscience/status/1522243926421237760","@allicovington sun. explains why seattle is so asexual…","2022-05-05 15:56 +0000","37.0","2.0","0.05405405405405406","0.0","0.0","2.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522234475404574720","https://twitter.com/daveyscience/status/1522234475404574720","@kareem_carr interesting. always thought of data science as codified statistics. didn’t have a formal stat background to think about how DS is uncovering new statistical methods","2022-05-05 15:19 +0000","111.0","5.0","0.04504504504504504","0.0","0.0","1.0","1.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522233325917642752","https://twitter.com/daveyscience/status/1522233325917642752","@shaundai happens to me more and more. i can never bring myself to do something hard/boring that early, but zombie walking across the street to the gym seems to be working.","2022-05-05 15:14 +0000","38.0","1.0","0.02631578947368421","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1522092488088973312","https://twitter.com/daveyscience/status/1522092488088973312","@radekosmulski took me so long to embrace this crucial part of learning. i like to think of it as your learning I/O - producing content in some form is at least as important as consuming it","2022-05-05 05:55 +0000","16.0","1.0","0.0625","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521903817838657536","https://twitter.com/daveyscience/status/1521903817838657536","Day 5 | #100DaysOfCode 
+
+To balance the last two days, I walked through this example of a good reason to NOT use Hadoop.
+
+https://t.co/Be8h7FRwMn","2022-05-04 17:25 +0000","127.0","7.0","0.05511811023622047","3.0","0.0","3.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521846467350081539","https://twitter.com/daveyscience/status/1521846467350081539","@broepke @TDataScience really nice. in your job, do you package that all up into a class and/or abstract away into a script?","2022-05-04 13:37 +0000","9.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521844177729847297","https://twitter.com/daveyscience/status/1521844177729847297","@Sauain all 4! nobody likes to hear that consistency is the secret sauce, but i'm going to keep the faith","2022-05-04 13:28 +0000","20.0","2.0","0.1","0.0","1.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521843654788214784","https://twitter.com/daveyscience/status/1521843654788214784","@mathsppblog odd_squares = [num**2 for num in numbers if num % 2]
+
+when will twitter add code decorating??","2022-05-04 13:26 +0000","246.0","2.0","0.008130081300813009","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521842455909265410","https://twitter.com/daveyscience/status/1521842455909265410","@marktenenholtz my progress skyrocketed when i started scheduling deep work sessions in my day, strictly enforcing total focus during that time, and just as strictly enforcing myself to get away from my phone/computer otherwise","2022-05-04 13:21 +0000","18.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521677319374397440","https://twitter.com/daveyscience/status/1521677319374397440","What's the best advice for starting a new job?","2022-05-04 02:25 +0000","42.0","1.0","0.023809523809523808","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521644737932931072","https://twitter.com/daveyscience/status/1521644737932931072","Great forum. Mark answered every question effortlessly.
+
+https://t.co/yRv79mg0hk","2022-05-04 00:15 +0000","3161.0","29.0","0.009174311926605505","1.0","1.0","2.0","13.0","3.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521606925170790401","https://twitter.com/daveyscience/status/1521606925170790401","@__mharrison__ both? i don't like emojis, but could just be personal preference.","2022-05-03 21:45 +0000","17.0","1.0","0.058823529411764705","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521583229332901888","https://twitter.com/daveyscience/status/1521583229332901888","If you are trying to break into data science, start by exploring internal transfers at your current company.","2022-05-03 20:11 +0000","54.0","2.0","0.037037037037037035","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521582549687971840","https://twitter.com/daveyscience/status/1521582549687971840","@tunguz loved this. a very artistic way of saying you need to be a lifelong learner? building a DS team is fun bc of the opportunity / challenge of mix-and-matching skillsets","2022-05-03 20:08 +0000","58.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521580550397386753","https://twitter.com/daveyscience/status/1521580550397386753","@__mharrison__ love the background image. not a fan of that style in the bio (ie: list of emoji + descriptor)","2022-05-03 20:00 +0000","70.0","2.0","0.02857142857142857","0.0","1.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521580070611001344","https://twitter.com/daveyscience/status/1521580070611001344","@svpino this website is so dope! would love to peek behind the scenes. i treat the explanation + references like reading the morning paper","2022-05-03 19:58 +0000","1213.0","5.0","0.004122011541632316","1.0","1.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521578006967242752","https://twitter.com/daveyscience/status/1521578006967242752","@__mharrison__ i've found that twitter remains useful in the long-term if you're vigilant about sorting who you follow vs. put in a list vs. unfollow etc","2022-05-03 19:50 +0000","23.0","2.0","0.08695652173913043","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521577473082728450","https://twitter.com/daveyscience/status/1521577473082728450","@MikeTamir sweet! in my first DS role my team through random forest at pretty much everything, without understanding why 🙂. this article does a great job at explaining the underlying principles in a digestible way","2022-05-03 19:48 +0000","278.0","6.0","0.02158273381294964","0.0","0.0","1.0","2.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521521069550493696","https://twitter.com/daveyscience/status/1521521069550493696","Day 4 | #100DaysOfCode 
+
+Overview of the entire Hadoop ecosystem. Feels a bit academic. Am I right in thinking that companies like Databricks, AWS, Snowflake have a similar ecosystem, and this is the open source version? https://t.co/pBiwdENHQ7","2022-05-03 16:04 +0000","245.0","21.0","0.08571428571428572","4.0","1.0","5.0","0.0","0.0","1.0","5.0","0.0","0","0","0","0","0","5","5","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521519418102075392","https://twitter.com/daveyscience/status/1521519418102075392","@hashtagcoder @DThompsonDev if someone expressed being teachable / quick learner in an interview - do you view that as a good sign or a warning sign that the candidate is too green? better way to express it?","2022-05-03 15:57 +0000","23.0","3.0","0.13043478260869565","0.0","1.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521496905104121856","https://twitter.com/daveyscience/status/1521496905104121856","In his book Deep Work, James Clear lists two core abilities for thriving in the new economy
+
+1. The ability to quickly master hard things
+2. The ability to produce at an elite level","2022-05-03 14:28 +0000","43.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521495003457019909","https://twitter.com/daveyscience/status/1521495003457019909","@eddiejaoude hah didn’t mean to be exclusive! good way to go behind the curtain regardless then","2022-05-03 14:20 +0000","14.0","1.0","0.07142857142857142","0.0","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521350564168142849","https://twitter.com/daveyscience/status/1521350564168142849","@WellPaidGeek what's your method to maintain consistency?","2022-05-03 04:46 +0000","11.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521349814570471425","https://twitter.com/daveyscience/status/1521349814570471425","@eddiejaoude great stuff. open source contribution is an incredible option for self-trained programmers to get a feel for what it's like to code at a professional level","2022-05-03 04:43 +0000","202.0","2.0","0.009900990099009901","0.0","1.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521348409105346565","https://twitter.com/daveyscience/status/1521348409105346565","@DThompsonDev i'm less concerned with thinking ""i know everything"" and more wondering when i'll stop feeling ""i know nothing""!","2022-05-03 04:38 +0000","301.0","3.0","0.009966777408637873","0.0","1.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521347809277931520","https://twitter.com/daveyscience/status/1521347809277931520","@jeremyphoward @wightmanr @kaggle ""It's like Huggingface Transformers, but for computer vision instead of NLP""
+
+can't write a better hook than that for me! been exposed to HF over the last 6 months and excited to see the equivalent for image data","2022-05-03 04:35 +0000","257.0","2.0","0.007782101167315175","0.0","0.0","0.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521344981079773184","https://twitter.com/daveyscience/status/1521344981079773184","@abhi1thakur if model performance is substandard, do you have a method to diagnose specifically why?","2022-05-03 04:24 +0000","62.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521170682876338176","https://twitter.com/daveyscience/status/1521170682876338176","Day 3 | #100DaysOfCode 
+
+Strengthening engineering skills with some fundamentals in Hadoop
+
+https://t.co/5ldBI5jPfj","2022-05-02 16:52 +0000","133.0","11.0","0.08270676691729323","4.0","1.0","4.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1521165373235548160","https://twitter.com/daveyscience/status/1521165373235548160","@Prathkum congrats! has your expertise grown alongside follower count or did you come in with some level of expertise?","2022-05-02 16:31 +0000","277.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1520967454343671808","https://twitter.com/daveyscience/status/1520967454343671808","Write to understand.","2022-05-02 03:24 +0000","33.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1520953799409496064","https://twitter.com/daveyscience/status/1520953799409496064","Day 2 | #100DaysOfCode 
+
+Mostly reading up on iCalendar standards so my scheduling database and functionality is compatible with a web and mobile app
+
+https://t.co/Kx3sKfWlnE","2022-05-02 02:30 +0000","150.0","15.0","0.1","6.0","0.0","4.0","0.0","1.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1520952358728966144","https://twitter.com/daveyscience/status/1520952358728966144","@Jason alternatives to #2:
+
+- schools set dynamic pricing based on major/school
+
+- federal government exits the equation altogether
+
+one does not preclude the other.","2022-05-02 02:24 +0000","18.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1520853569775177728","https://twitter.com/daveyscience/status/1520853569775177728","@marktenenholtz Do you put the XGB into production and then explore more complex solutions, or is this more about getting to initial insight?","2022-05-01 19:52 +0000","365.0","1.0","0.0027397260273972603","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1520836653463396352","https://twitter.com/daveyscience/status/1520836653463396352","@svpino inspiring! starting the same","2022-05-01 18:44 +0000","22.0","2.0","0.09090909090909091","0.0","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1520835859666268161","https://twitter.com/daveyscience/status/1520835859666268161","@svpino do you think your skill and expertise evolved along with your passion?","2022-05-01 18:41 +0000","253.0","1.0","0.003952569169960474","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1520830325026287616","https://twitter.com/daveyscience/status/1520830325026287616","@DaygameCharisma it also might be a reflection of you not valuing yourself","2022-05-01 18:19 +0000","328.0","4.0","0.012195121951219513","0.0","0.0","3.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1520812376332771328","https://twitter.com/daveyscience/status/1520812376332771328","@MakadiaHarsh congrats, looks awesome, love how it covers so many aspects in detail","2022-05-01 17:08 +0000","64.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
